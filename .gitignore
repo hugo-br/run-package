@@ -3,6 +3,4 @@ output/css/*.css
 output/css/*/*.css
 output/js/*.js
 output/js/*/*.js
-styles/*.scss
-styles/*.sass
 js/*.js
